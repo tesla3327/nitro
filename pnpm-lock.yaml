@@ -21,7 +21,7 @@ importers:
       '@types/aws-lambda': ^8.10.110
       '@types/etag': ^1.8.1
       '@types/fs-extra': ^11.0.1
-      '@types/http-proxy': ^1.17.9
+      '@types/http-proxy': ^1.17.10
       '@types/node-fetch': ^2.6.2
       '@types/semver': ^7.3.13
       '@types/serve-static': ^1.15.0
@@ -55,7 +55,7 @@ importers:
       jiti: ^1.17.1
       klona: ^2.0.6
       knitwork: ^1.0.0
-      listhen: ^1.0.2
+      listhen: ^1.0.3
       mime: ^3.0.0
       miniflare: ^2.12.1
       mlly: ^1.1.1
@@ -147,7 +147,7 @@ importers:
       '@types/aws-lambda': 8.10.110
       '@types/etag': 1.8.1
       '@types/fs-extra': 11.0.1
-      '@types/http-proxy': 1.17.9
+      '@types/http-proxy': 1.17.10
       '@types/node-fetch': 2.6.2
       '@types/semver': 7.3.13
       '@types/serve-static': 1.15.0
@@ -1305,8 +1305,8 @@ packages:
       '@types/node': 18.14.0
     dev: true
 
-  /@types/http-proxy/1.17.9:
-    resolution: {integrity: sha512-QsbSjA/fSk7xB+UXlCT3wHBy5ai9wOcNDWwZAtud+jXhwOM3l+EYZh8Lng4+/6n8uar0J7xILzqftJdJ/Wdfkw==}
+  /@types/http-proxy/1.17.10:
+    resolution: {integrity: sha512-Qs5aULi+zV1bwKAg5z1PWnDXWmsn+LxIvUGv6E2+OOMYhclZMO+OXd9pYVf2gLykf2I7IV2u7oTHwChPNsvJ7g==}
     dependencies:
       '@types/node': 18.14.0
     dev: true

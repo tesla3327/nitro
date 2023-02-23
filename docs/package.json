@@ -10,6 +10,6 @@
     "@nuxt-themes/docus": "^1.8.3",
     "@nuxthq/studio": "^0.7.5",
     "@nuxtjs/plausible": "^0.2.0",
-    "nuxt": "3.2.0"
+    "nuxt": "3.2.2"
   }
 }
